@@ -39,5 +39,5 @@ This project implements the following features:
 - **Photoshoot Plan Improvements:** Does not yet consider multiple cover color themes per book.
 - **Database Persistence:** Uses a local SQLite database, which may not be suitable for web-based applications.
 
-For further enhancements, feel free to contribute or suggest features!
+
 
